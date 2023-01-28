@@ -1,0 +1,35 @@
+body
+{
+ text-align: center;
+}
+
+.heading{
+   width: 100%;
+    text-align: center;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button {
+    float:left;
+    border: 2px solid red;
+}
+.modal-dialog
+{
+    width: 100%;
+}
+
+.modal-body
+{
+    display: inline;
+    font-size: 2px;
+}
+ 
+h4
+{
+   background-color: #f5f5f5;
+   line-height: 2;
+   margin: 0px;
+}
